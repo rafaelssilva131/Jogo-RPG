@@ -1,0 +1,12 @@
+INSTRUÇõES:
+	Olá, jogador(a). Neste jogo de RPG em formato textual, você irá explorar uma aventura de uma família de aventureiros
+	em busca de um parente e tesouro perdido.
+Nome e Classe:
+	Como primeiro passo, antes de jogar, é necessário que você selecione o nome como deseja ser chamado e a classe do personagem.
+Classes:
+	Neste jogo, temos três classes - (1) Caçador; (2)  Explorador; e (3) Bióloga. Cada classe tem um conjunto de ataques e um especial único.
+Caminhos: 
+	Cada personagem e classe, neste jogo, terá um caminho exclusivo com inimigos e combates próprios para enfrentar ao longo da sua jornada.
+Evolução:
+	A cada desafio e inimigo superado, a habilidade única será aprimorada para uma versão melhor e mais forte para encarar os próximos embates.
+      Desafio Final: por fim, para concluir a narrativa, você será confrontado com um inimigo final a ser derrotado e conhecer o final da história.
